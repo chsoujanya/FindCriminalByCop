@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/FindCriminalByCop/static/css/main.ff02f4b5.css",
+    "main.js": "/FindCriminalByCop/static/js/main.f921e9a7.js",
+    "static/js/453.6a855c8e.chunk.js": "/FindCriminalByCop/static/js/453.6a855c8e.chunk.js",
+    "static/media/Nuravgram.jpg": "/FindCriminalByCop/static/media/Nuravgram.e3c068c60a50139ee0c7.jpg",
+    "static/media/Narmis.jpg": "/FindCriminalByCop/static/media/Narmis.0d572aaeb13d0fea8842.jpg",
+    "static/media/Shekharvati.jpg": "/FindCriminalByCop/static/media/Shekharvati.bdd3911a03d4b8d9d545.jpg",
+    "static/media/Yapkashnagar.jpg": "/FindCriminalByCop/static/media/Yapkashnagar.6b1069a24aa079d0db09.jpg",
+    "static/media/Lihaspur.jpg": "/FindCriminalByCop/static/media/Lihaspur.916ff1dd2f047fd73bc9.jpg",
+    "static/media/EVBike1.jpg": "/FindCriminalByCop/static/media/EVBike1.47aaa5860810b1bf4f61.jpg",
+    "static/media/EVBike2.jpg": "/FindCriminalByCop/static/media/EVBike2.47aaa5860810b1bf4f61.jpg",
+    "static/media/EVSUV.jpg": "/FindCriminalByCop/static/media/EVSUV.89aaae40e3c35fc20ea9.jpg",
+    "static/media/cop3.jpg": "/FindCriminalByCop/static/media/cop3.ebcaa225008656c75a0a.jpg",
+    "static/media/EVCar.jpg": "/FindCriminalByCop/static/media/EVCar.388a8fa4d1985d1db3e6.jpg",
+    "static/media/criminal.jpg": "/FindCriminalByCop/static/media/criminal.bc59ff5eec26abd109d5.jpg",
+    "static/media/cop2.jpg": "/FindCriminalByCop/static/media/cop2.987e97f80217254397af.jpg",
+    "static/media/cop1.jpg": "/FindCriminalByCop/static/media/cop1.e671c29be05286bcf89f.jpg",
+    "index.html": "/FindCriminalByCop/index.html",
+    "main.ff02f4b5.css.map": "/FindCriminalByCop/static/css/main.ff02f4b5.css.map",
+    "main.f921e9a7.js.map": "/FindCriminalByCop/static/js/main.f921e9a7.js.map",
+    "453.6a855c8e.chunk.js.map": "/FindCriminalByCop/static/js/453.6a855c8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.f921e9a7.js"
+  ]
+}
